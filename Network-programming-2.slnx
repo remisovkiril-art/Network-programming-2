@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../GuessNumberClient/GuessNumberClient.csproj" />
-  <Project Path="GuessNumberServer.csproj" />
+  <Project Path="GuessNumberClient/GuessNumberClient.csproj" />
+  <Project Path="GuessNumberServer/GuessNumberServer.csproj" />
 </Solution>
